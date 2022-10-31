@@ -1,3 +1,3 @@
-import { main } from './start-server.js'
+import { main } from './start-server.js';
 
-main()
+main();
